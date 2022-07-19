@@ -1,0 +1,70 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Poppins', sans-serif;
+}
+
+/* --------------------------------------------------------
+Top Banner Start
+---------------------------------------------------------*/
+.container1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 50px;
+}
+
+.top-banner {
+    background-color: #161616;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 1321px;
+    height: 646px;
+    border-radius: 30px;
+
+}
+
+.banner-text {
+    width: 531px;
+    height: 424px;
+    color: #ffff;
+}
+
+.banner-text h1 {
+    margin-top: 0;
+    font-size: 70px;
+    font-weight: 700;
+    line-height: 80px;
+}
+
+.banner-text p {
+    padding-top: 20px;
+    padding-bottom: 30px;
+    font-size: 16px;
+}
+
+.banner-text a {
+    width: 187px;
+    height: 56px;
+    background-color: #DD0000;
+    padding: 16px 25px;
+    border-radius: 5px;
+    text-decoration: none;
+    color: #ffff;
+}
+
+.banner-text .fa-angle-right {
+    padding-left: 10px;
+}
+
+.banner-image img {
+    width: 581px;
+    height: 613px;
+    padding-top: 40px;
+    padding-left: 24px;
+}
+
+/* --------------------------------------------------------
+Top Banner end 
+---------------------------------------------------------*/
