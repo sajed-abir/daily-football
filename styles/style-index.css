@@ -68,3 +68,49 @@ Top Banner Start
 /* --------------------------------------------------------
 Top Banner end 
 ---------------------------------------------------------*/
+
+/* Sidebar Start */
+.sidebar {
+    background-color: #161616;
+    width: 312px;
+    height: 312px;
+    margin-top: 130px;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.internal-box {
+    border: 1px solid #161616;
+}
+
+.horizontal-divs {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 252px;
+    height: 64px;
+    border-radius: 10px;
+    margin: 30px;
+    background-color: #ffff;
+}
+
+/* sidebar end */
+
+/* main section start */
+.card {
+    width: 312px;
+    height: 362px;
+    border: 1px solid #161616;
+}
+
+.card a {
+    width: 100px;
+    height: 32px;
+    border: 1px solid #161616;
+    border-radius: 3px;
+    text-decoration: none;
+}
+
+.icon {}
