@@ -4,6 +4,13 @@
     font-family: 'Poppins', sans-serif;
 }
 
+/* Animation */
+.banner-text h1:hover {
+    font-size: 90px;
+    color: #DD0000;
+    transition: .7s;
+}
+
 /* --------------------------------------------------------
 Top Banner Start
 ---------------------------------------------------------*/
